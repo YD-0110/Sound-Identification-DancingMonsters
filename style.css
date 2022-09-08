@@ -1,0 +1,39 @@
+body{
+    font-family: 'Dancing Script', cursive;
+    
+    background-color: cornflowerblue;
+
+}
+
+.header_div{
+    background-color: whitesmoke;
+    color: crimson;
+}
+
+.header_div p{
+    font-family: 'Antonio', sans-serif;
+    color: gray;
+    letter-spacing: 1px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: 'Antonio', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(85, 85, 85);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: aquamarine;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(143, 141, 141);
+}
